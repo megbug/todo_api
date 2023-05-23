@@ -1,14 +1,18 @@
 [
-    {
-        "userId": 1,
-        "id": 1,
-        "title": "call someone",
-        "completed": false
-    },
-    {
-        "userId": 1,
-        "id": 2,
-        "title": "write some todos",
-        "completed": false
-    }
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "test put",
+    "completed": false
+  },
+  {
+    "title": "fix bug",
+    "completed": false,
+    "id": 3
+  },
+  {
+    "title": "test post req",
+    "completed": false,
+    "id": 8
+  }
 ]
